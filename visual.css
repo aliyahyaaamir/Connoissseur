@@ -1,0 +1,48 @@
+.product-data{
+	position: relative;
+	left: 0px;
+	top: 0px;
+	font-family: times new roman;
+}
+
+.product_image{
+	position: relative;
+	left: 0px;
+}
+
+h2{
+
+	font-family: Georgia;
+
+
+}
+
+.product:hover
+{
+background-color:red;
+}
+
+
+.product{
+	position: relative;
+	left: 400px;
+	width:250px;
+	padding: 10px;
+	border: 5px solid 66FFFF;
+	margin 0px;
+	background-color: white;
+
+}
+
+body {
+
+	background-color: 66CCFF;
+
+}
+
+h1 {
+
+	position: relative;
+	left: 450px;
+
+}
